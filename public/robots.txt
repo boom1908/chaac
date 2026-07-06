@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /feed
+Disallow: /chat
+Disallow: /profile
+Disallow: /create
+
+Sitemap: https://chaac.vercel.app/sitemap.xml
